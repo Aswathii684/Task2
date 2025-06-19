@@ -1,0 +1,33 @@
+body{
+  margin-top:100px;
+  background-color: black;
+}
+.title {
+	color: #5C6AC4;
+}
+div{
+  background-color:white;
+  border:10px;
+  height: 500px;
+  width:375px;
+  margin: px;
+  border-radius: 10px;
+}
+#pic{
+  margin-left:115px;
+  margin-top:20px;
+}
+button{
+  margin-left: 35px;
+  block-size: 30px;
+  box-shadow: 3px 3px 5px 3px grey;
+  font-style: italic;
+  font-size: 18px;
+}
+.b{
+  font-size: 20px;
+}
+.x{
+  padding-left:30px;
+  margin-left:50px;
+}
